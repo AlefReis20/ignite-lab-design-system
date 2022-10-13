@@ -30,11 +30,7 @@ module.exports = {
       cyan: {
         500: '#81D8F7',
         300: '#9BE1FB',
-      },
-      
-    
-
-      
+      },  
     },
     extend: {
       fontFamily: {
